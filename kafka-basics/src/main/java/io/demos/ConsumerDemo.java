@@ -11,7 +11,6 @@ import java.time.Duration;
 import java.util.List;
 import java.util.Properties;
 
-//started to learn kafka
 
 /**
  * how to code for Kafka-Consumer
